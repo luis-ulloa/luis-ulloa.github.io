@@ -1,0 +1,43 @@
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Build and cache directories
+dist/
+build/
+.cache/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Deployment files
+*.env
+*.local
+
+# Asset caches
+assets/img/.cache/
+assets/docs/.cache/
+
+# Ignore personal files
+*.zip
+*.tar
+*.gz
+*.rar
+
+# Ignore all files in assets except HTML/CSS/JS
+assets/**
+!assets/**/*.html
+!assets/**/*.css
+!assets/**/*.js
