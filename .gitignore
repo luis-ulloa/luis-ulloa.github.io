@@ -41,3 +41,7 @@ assets/**
 !assets/**/*.html
 !assets/**/*.css
 !assets/**/*.js
+
+# Allow images in assets/img/portfolio/
+!assets/img/portfolio/
+!assets/img/portfolio/*
