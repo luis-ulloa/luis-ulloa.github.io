@@ -7995,6 +7995,12 @@ textarea.form-control-lg {
   text-align: center !important;
 }
 
+/* adding my own class */
+.text-justify {
+  text-align: justify !important;
+}
+/*--------------------------------*/
+
 .text-decoration-none {
   text-decoration: none !important;
 }
@@ -10978,7 +10984,7 @@ html {
 .masthead .masthead-subheading {
   font-size: 1.25rem;
 }
-.masthead .masthead-avatar {
+0 {
   width: 15rem;
   border-radius: 50%;   /* added to template */
   object-fit: cover; /* added to template */
