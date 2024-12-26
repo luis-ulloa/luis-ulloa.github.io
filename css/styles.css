@@ -10984,7 +10984,8 @@ html {
 .masthead .masthead-subheading {
   font-size: 1.25rem;
 }
-0 {
+
+.masthead .masthead-avatar {
   width: 15rem;
   border-radius: 50%;   /* added to template */
   object-fit: cover; /* added to template */
