@@ -402,6 +402,18 @@ textarea {
   resize: vertical;
 }
 
+.tableau-social-icon {
+    width: 20px;
+    height: 20px;
+    filter: brightness(0) invert(1);
+    transition: filter 0.15s ease-in-out;
+}
+
+.btn-social:hover .tableau-social-icon {
+    filter: none;
+}
+
+
 fieldset {
   min-width: 0;
   padding: 0;
